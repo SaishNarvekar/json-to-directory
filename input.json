@@ -1,0 +1,29 @@
+{
+    "path": ".",
+    "name": ".",
+    "type": "folder",
+    "children": [
+        {
+            "path": "file-outter",
+            "name": "file-outter",
+            "type": "file"
+        },
+        {
+            "path": "test",
+            "name": "test",
+            "type": "folder",
+            "children": [
+                {
+                    "path": "test\\file1",
+                    "name": "file1",
+                    "type": "file"
+                },
+                {
+                    "path": "test\\file2",
+                    "name": "file2",
+                    "type": "file"
+                }
+            ]
+        }
+    ]
+}

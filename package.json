@@ -1,0 +1,18 @@
+{
+  "name": "json-to-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "node cli.js"
+  },
+  "keywords": [],
+  "author": "Saish Narvekar <narvekar.saish@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "json-dir": "cli.js"
+  },
+  "dependencies": {
+    "yargs": "^13.3.0"
+  }
+}
